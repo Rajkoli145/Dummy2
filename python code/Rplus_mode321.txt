@@ -1,2 +1,0 @@
-Overwritingample file
-for r+ mode
